@@ -18,15 +18,15 @@ const result = {
       "name": "Nom",
       "rating": "Note"
     },
-    "written_by": "Cet assembly a été créée par {author} et la dernière mise à jour était à {until-now}"
+    "written_by": "Cette assembly a été créée par {author}, dernière mise à jour {until-now}"
   },
   "layout": {
     "logout": "Déconnexion",
     "navigation": {
-      "applog": "Log application",
+      "applog": "Logs",
       "assemblies": "Assemblies",
       "changelog": "Changelog",
-      "news": "Actualités",
+      "news": "Nouveautés",
       "profiles": "Profils",
       "settings": "Réglages"
     },
