@@ -48,6 +48,6 @@ const result = {
   }
 };
 
-Ember.merge(result, NL);
+Ember.merge(result, EN);
 
 export default result;
