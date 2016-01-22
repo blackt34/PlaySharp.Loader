@@ -4,7 +4,7 @@ import EN from '../en/champions';
 const result = {
   "assemblies": {
     "buttons": {
-      "install": "Installer",
+      "install": "Installere",
       "options": "Indstillinger"
     },
     "search_by": {
@@ -16,7 +16,7 @@ const result = {
     "sort_by": {
       "last_update": "Sidst Opdateret",
       "name": "Navn",
-      "rating": "Rating"
+      "rating": "Bedømmelse"
     },
     "written_by": "Dette assembly er skrevet af {author} og blev sidst opdateret {until-now}"
   },
@@ -35,7 +35,7 @@ const result = {
   "profiles": {
     "set": {
       "root": {
-        "create": "Opret nyt sæt",
+        "create": "Opret et nyt sæt",
         "default": "Standardprofil {index}",
         "title": "Mine sæt"
       },
