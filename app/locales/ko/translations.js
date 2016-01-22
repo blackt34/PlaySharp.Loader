@@ -1,5 +1,5 @@
 import Ember from 'ember';
-import KO from '../en/champions';
+import KO from './champions';
 
 const result = {
   "assemblies": {
@@ -48,6 +48,6 @@ const result = {
   }
 };
 
-Ember.merge(result, EN);
+Ember.merge(result, KO);
 
 export default result;
