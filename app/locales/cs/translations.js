@@ -12,7 +12,7 @@ const result = {
       "libraries": "Knihovny",
       "utilities": "Utility"
     },
-    "search_phrase": "Hledat sestavy,
+    "search_phrase": "Hledat sestavy",
     "sort_by": {
       "last_update": "Poslední aktualizace",
       "name": "Jméno",
