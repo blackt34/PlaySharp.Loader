@@ -8,17 +8,17 @@ const result = {
       "options": "Opciones"
     },
     "search_by": {
-      "assemblies": "Campeon",
+      "assemblies": "Campeón",
       "libraries": "Bibliotecas",
       "utilities": "Utilidades"
     },
     "search_phrase": "Buscar ensambles",
     "sort_by": {
-      "last_update": "Ultima actualizacion",
+      "last_update": "Ultima actualización",
       "name": "Nombre",
-      "rating": "Puntuacion"
+      "rating": "Puntuación"
     },
-    "written_by": "Este ensamble esta escrito por {autor} y la ultima actualizacion fiue {hasta-ahora}"
+    "written_by": "Este ensamble esta escrito por {autor} y la ultima actualización fue {hasta-ahora}"
   },
   "layout": {
     "logout": "Desconectarse",
