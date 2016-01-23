@@ -23,9 +23,9 @@ const result = {
   "layout": {
     "logout": "로그아웃",
     "navigation": {
-      "applog": "앱 로그",
+      "applog": "기록",
       "assemblies": "어셈블리",
-      "changelog": "변경점",
+      "changelog": "변경 내역",
       "news": "공지",
       "profiles": "프로필",
       "settings": "설정"
@@ -35,9 +35,9 @@ const result = {
   "profiles": {
     "set": {
       "root": {
-        "create": "새로운 세트 만들기",
+        "create": "새로운 모음집 만들기",
         "default": "기본 프로필 {index}",
-        "title": "내 세트"
+        "title": "내 모음집"
       },
       "entry": {
         "author": "어셈블리 제작자",
