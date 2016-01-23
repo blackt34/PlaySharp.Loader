@@ -9,7 +9,7 @@ const result = {
     },
     "search_by": {
       "assemblies": "Şampiyonlar",
-      "libraries": "Kitaplık",
+      "libraries": "Kütüphane",
       "utilities": "Yardımcı Assembly"
     },
     "search_phrase": "Assembly Ara",
@@ -18,12 +18,12 @@ const result = {
       "name": "İsim",
       "rating": "Derecelendirme"
     },
-    "written_by": "Bu assembly {author} tarafından yazılmıştır ve son güncellemesi {until-now}"
+    "written_by": "Bu assembly {author} tarafından kodlanmıştır ve son güncellemesi {until-now}"
   },
   "layout": {
     "logout": "Çıkış Yap",
     "navigation": {
-      "applog": "Applog",
+      "applog": "Sistem Günlüğü",
       "assemblies": "Assemblies",
       "changelog": "Güncelleme Kaydı",
       "news": "Haberler",
@@ -35,14 +35,14 @@ const result = {
   "profiles": {
     "set": {
       "root": {
-        "create": "Yeni set oluştur",
-        "default": "Standart Profil {index}",
-        "title": "Benim Setlerim"
+        "create": "Yeni profil oluştur",
+        "default": "Varsayılan Profil {index}",
+        "title": "Profillerim"
       },
       "entry": {
         "author": "Assembly Sahibi",
         "name": "Assembly İsmi",
-        "version": "Assembly Versiyonu"
+        "version": "Assembly Sürümü"
       }
     }
   }
