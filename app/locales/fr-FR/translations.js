@@ -26,7 +26,7 @@ const result = {
       "applog": "Journal des Logs",
       "assemblies": "Assemblies",
       "changelog": "Changelog",
-      "news": "Nouveautés",
+      "news": "Actualités",
       "profiles": "Profils",
       "settings": "Réglages"
     },
