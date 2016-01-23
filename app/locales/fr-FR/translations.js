@@ -12,7 +12,7 @@ const result = {
       "libraries": "Librairies",
       "utilities": "Utilitaires"
     },
-    "search_phrase": "Recherche d'assemblies",
+    "search_phrase": "Rechercher une assembly",
     "sort_by": {
       "last_update": "Dernière mise à jour",
       "name": "Nom",
@@ -23,7 +23,7 @@ const result = {
   "layout": {
     "logout": "Déconnexion",
     "navigation": {
-      "applog": "Logs",
+      "applog": "Journal des Logs",
       "assemblies": "Assemblies",
       "changelog": "Changelog",
       "news": "Nouveautés",
