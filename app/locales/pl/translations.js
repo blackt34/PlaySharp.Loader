@@ -14,9 +14,9 @@ const result = {
     },
     "search_phrase": "Szukaj skryptów",
     "sort_by": {
-      "last_update": "Last Update",
-      "name": "Name",
-      "rating": "Rating"
+      "last_update": "Ostatnia aktualizacja",
+      "name": "Nazwa",
+      "rating": "Ocena"
     },
     "written_by": "Ten skrypt zostal napisany przez {author}, ostatnia aktualizacja miala miejsce {until-now}"
   },
