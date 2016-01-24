@@ -1,6 +1,6 @@
 
 import Ember from 'ember';
-import EN from './champions';
+import EN from '../en/champions';
 
 const result = {
   "assemblies": {
