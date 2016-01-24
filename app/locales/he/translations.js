@@ -23,7 +23,7 @@ const result = {
   "layout": {
     "logout": "יציאה מהמערכת",
     "navigation": {
-      "applog": "Applog",
+      "applog": "יומן יישום",
       "assemblies": "אסמבליס",
       "changelog": "רשימת שינויים",
       "news": "חדשות",
