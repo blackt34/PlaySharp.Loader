@@ -10,7 +10,7 @@ const result = {
     "search_by": {
       "assemblies": "Bohaterowie",
       "libraries": "Biblioteki",
-      "utilities": "Narzedzia"
+      "utilities": "Narzędzia"
     },
     "search_phrase": "Szukaj skryptów",
     "sort_by": {
@@ -18,7 +18,7 @@ const result = {
       "name": "Nazwa",
       "rating": "Ocena"
     },
-    "written_by": "Ten skrypt zostal napisany przez {author}, ostatnia aktualizacja miala miejsce {until-now}"
+    "written_by": "Ten skrypt został napisany przez {author}, ostatnia aktualizacja miała miejsce {until-now}"
   },
   "layout": {
     "logout": "Wyloguj",
@@ -26,7 +26,7 @@ const result = {
       "applog": "Dziennik aplikacji",
       "assemblies": "Skrypty",
       "changelog": "Dziennik zmian",
-      "news": "Nowosci",
+      "news": "Nowości",
       "profiles": "Profile",
       "settings": "Ustawienia"
     },
