@@ -8,7 +8,7 @@ const result = {
       "options": "خيارات"
     },
     "search_by": {
-      "assemblies": "الشخصية",
+      "assemblies": "الأسمبليس",
       "libraries": "المكاتب",
       "utilities": "المساعدات"
     },
@@ -26,9 +26,9 @@ const result = {
       "applog": "سجل التطبيق",
       "assemblies": "الاسملبيس",
       "changelog": "سجل التغيير",
-      "news": "الاخبار",
+      "news": " الأخبار",
       "profiles": "الملفات الشخصية",
-      "settings": "الاعدادات"
+      "settings": "الأعدادات"
     },
     "welcome_back": "مرحبا بعودتك, {username}!"
   },
@@ -36,13 +36,13 @@ const result = {
     "set": {
       "root": {
         "create": "انتج مجموعة جديدة",
-        "default": "الملف الافتراضي {index}",
+        "default": "الملف الأفتراضي {index}",
         "title": "العنوان"
       },
       "entry": {
-        "author": "مؤلف الاسمبلي",
-        "name": "اسم الاسمبلي",
-        "version": "نسخة الاسمبلي"
+        "author": "مؤلف الأسمبلي",
+        "name": "اسم الأسمبلي",
+        "version": "نسخة الأسمبلي"
       }
     }
   }
