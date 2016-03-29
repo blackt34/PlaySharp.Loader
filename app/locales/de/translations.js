@@ -12,7 +12,7 @@ const result = {
       "libraries": "Libraries",
       "utilities": "Utilities"
     },
-    "search_phrase": "Suche nach assemblies",
+    "search_phrase": "Suche nach Assemblies",
     "sort_by": {
       "last_update": "Letztes Update",
       "name": "Name",
@@ -21,7 +21,7 @@ const result = {
     "written_by": "Dieses Assembly wurde von {author} erstellt und das letzte Update war {until-now}"
   },
   "layout": {
-    "logout": "Logout",
+    "logout": "Ausloggen",
     "navigation": {
       "applog": "Applog",
       "assemblies": "Assemblies",
