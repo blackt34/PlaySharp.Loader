@@ -8,6 +8,7 @@ export default {
     "Anivia": "冰晶凤凰-艾尼维亚",
     "Annie": "黑暗之女-安妮",
     "Ashe": "寒冰射手-艾希",
+    "Aurelion sol": "奥瑞利安索尔-铸星龙王",
     "Azir": "沙漠皇帝-阿兹尔",
     "Bard": "星界游神-巴德",
     "Blitzcrank": "蒸汽机器人-布里茨",
@@ -42,6 +43,7 @@ export default {
     "Jarvaniv": "德玛西亚皇子-嘉文四世",
     "Jax": "武器大师-贾克斯",
     "Jayce": "未来守护者-杰斯",
+    "Jhin": "戏命师-烬",
     "Jinx": "暴走萝莉-金克丝",
     "Kalista": "复仇之矛-卡莉斯塔",
     "Karma": "天启者-卡尔玛",
@@ -99,6 +101,7 @@ export default {
     "Syndra": "暗黑元首-辛德拉",
     "Talon": "刀锋之影-泰隆",
     "Tahmkench": "河流之王-塔姆",
+    "Taliyah": "岩雀-塔莉垭",
     "Taric": "宝石骑士-塔里克",
     "Teemo": "迅捷斥候-提莫",
     "Thresh": "魂锁典狱长-锤石",
@@ -127,6 +130,6 @@ export default {
     "Zed": "影流之主-劫",
     "Ziggs": "爆破鬼才-吉格斯",
     "Zilean": "时光守护者-基兰",
-    "Zyra": "荆棘之兴-婕拉"  
+    "Zyra": "荆棘之兴-婕拉"
   }
 }
