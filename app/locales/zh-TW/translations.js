@@ -1,5 +1,5 @@
 import Ember from 'ember';
-import ZH from './champions';
+import zh-TW from './champions';
 
 const result = {
   "assemblies": {
@@ -9,25 +9,25 @@ const result = {
     },
     "search_by": {
       "assemblies": "英雄",
-      "libraries": "數據庫",
+      "libraries": "函式庫",
       "utilities": "功能"
     },
-    "search_phrase": "在脚本庫搜索",
+    "search_phrase": "搜尋腳本",
     "sort_by": {
       "last_update": "上次更新",
       "name": "名字",
-      "rating": "等級"
+      "rating": "評價"
     },
     "written_by": "這個脚本的作者是: {author} , 上次更新時間為:{until-now}"
   },
   "layout": {
-    "logout": "退出/注銷",
+    "logout": "登出",
     "navigation": {
-      "applog": "日志/記錄",
+      "applog": "日誌檔",
       "assemblies": "腳本庫",
-      "changelog": "更新日志",
-      "news": "消息/新聞",
-      "profiles": "簡介",
+      "changelog": "更新日誌",
+      "news": "新聞",
+      "profiles": "設定檔",
       "settings": "設定"
     },
     "welcome_back": "歡迎回來, {username}!"
@@ -36,7 +36,7 @@ const result = {
     "set": {
       "root": {
         "create": "新建",
-        "default": "預設配置文件 {index}",
+        "default": "預設設定檔 {index}",
         "title": "我的收藏"
       },
       "entry": {
@@ -48,6 +48,6 @@ const result = {
   }
 };
 
-Ember.merge(result, ZH);
+Ember.merge(result, zh-TW);
 
 export default result;
